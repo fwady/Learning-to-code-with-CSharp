@@ -8,7 +8,7 @@ This blog (of sorts) is to help keep myself motivated and to also let others see
 
 ---------------------------------------------------------
 
-## Day 1: Learning the basics of C# - _29/08/2018_
+## **Day 1:** Learning the basics of C# - _29/08/2018_
 
 I'm going to begin my journey by using Microsoft's website to learn some basics: [https://docs.microsoft.com/en-us/dotnet/csharp/quick-starts/numbers-in-csharp](https://docs.microsoft.com/en-us/dotnet/csharp/quick-starts/numbers-in-csharp).
 
