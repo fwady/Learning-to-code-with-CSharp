@@ -14,10 +14,10 @@ I'm going to begin my journey by using Microsoft's website to learn some basics:
 
 **This will cover:**
 
-- Introduction to C#
-- Explore integer math
-- Explore order of operations
-- Explore integer precision and limits
-- Work with the double type
-- Work with fixed point types
+- Introduction to C# ✔️
+- Explore integer math ✔️
+- Explore order of operations ✔️
+- Explore integer precision and limits ⌛
+- Work with the double type ⌛
+- Work with fixed point types ⌛
 
