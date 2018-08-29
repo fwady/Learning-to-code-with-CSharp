@@ -1,6 +1,6 @@
 # Welcome to my coding journey.
 
-Here I will document my daily progress of trying to understand C# from a complete beginner standpoint. I currently only know HTML/CSS so this will be a big challenge for me but something I've always wanted to do.
+Here I will document my daily progress of trying to understand C# from a complete beginner standpoint. I currently only know HTML/CSS so this will be a big challenge for me but it's something I've always wanted to do.
 
 My main goal is to eventually be able to code a game in Unity, however basic it may be. It may take months, it could take years but I will get there.
 
