@@ -1,35 +1,23 @@
-<p align="center"><img src="https://pbs.twimg.com/profile_images/1027564480073527296/KmMj7bNJ_400x400.jpg"></p>
+# Welcome to my coding journey.
 
-# Welcome to my domain.
+Here I will document my daily progress of trying to understand C# from a complete beginner standpoint. I currently only know HTML/CSS so this will be a big challenge for me but something I've always wanted to do.
 
-### Things will appear here in time.
+My main goal is to eventually be able to code a game in Unity, however basic it may be. It may take months, it could take years but I will get there.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This blog (of sorts) is to help keep myself motivated and to also let others see my progress. I will also be posting updates on my [Twitter](www.twitter.com/_fwady).
 
-```markdown
-Syntax highlighted code block
+---------------------------------------------------------
 
-# Header 1
-## Header 2
-### Header 3
+## Day 1: Learning the basics of C# - _29/08/2018_
 
-- Bulleted
-- List
+I'm going to begin my journey by using Microsoft's website to learn some basics: https://docs.microsoft.com/en-us/dotnet/csharp/quick-starts/numbers-in-csharp.
 
-1. Numbered
-2. List
+**This will cover:**
 
-**Bold** and _Italic_ and `Code` text
+- Introduction to C#
+- Explore integer math
+- Explore order of operations
+- Explore integer precision and limits
+- Work with the double type
+- Work with fixed point types
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fwady/first/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
